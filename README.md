@@ -1,10 +1,8 @@
-# This is my very first website
+<h1 align=”center”>My First Website</h1>
 
-Welcome! [Code Institute](http://codeinstitute.net)
+[View the live project here.](https://roxjade.github.io/my-full-template/)
 
-## h2
+This site was developed as a practical exercise to experiment with very basic HTML and CSS. Also to become familiar with Gitpod and GitHub. 
 
-### h3
-
-#### h4
+It has not been designed to be responsive or accessible on other devices. 
 
